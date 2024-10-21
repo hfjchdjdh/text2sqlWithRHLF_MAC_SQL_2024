@@ -1,0 +1,14 @@
+{'cid': 0, 'name': 'province', 'type': 'TEXT(255)', 'notnull': 0, 'dflt_value': None, 'pk': 0, 'desc':'招生省份'}
+{'cid': 1, 'name': 'isCommand', 'type': 'TEXT(255)', 'notnull': 0, 'dflt_value': None, 'pk': 0,'desc':'是否是指挥类'}
+{'cid': 2, 'name': 'plannedMaleNum', 'type': 'INTEGER', 'notnull': 0, 'dflt_value': None, 'pk': 0, 'desc':'计划招收男学生数量'}
+{'cid': 3, 'name': 'plannedFemaleNum', 'type': 'INTEGER', 'notnull': 0, 'dflt_value': None, 'pk': 0, 'desc':'计划招收女学生数量'}
+{'cid': 4, 'name': 'admissionMaleNum', 'type': 'INTEGER', 'notnull': 0, 'dflt_value': None, 'pk': 0, 'desc':'录取男学生数量'}
+{'cid': 5, 'name': 'admissionFemaleNum', 'type': 'INTEGER', 'notnull': 0, 'dflt_value': None, 'pk': 0, 'desc':'录取女学生数量'}
+{'cid': 6, 'name': 'firstBatchScore', 'type': 'INTEGER', 'notnull': 0, 'dflt_value': None, 'pk': 0, 'desc':'一本线分数'}
+{'cid': 7, 'name': 'maleHighestScore', 'type': 'INTEGER', 'notnull': 0, 'dflt_value': None, 'pk': 0, 'desc':'录取男学生最高分'}
+{'cid': 8, 'name': 'maleLowestScore', 'type': 'INTEGER', 'notnull': 0, 'dflt_value': None, 'pk': 0, 'desc':'录取男学生最低分'}
+{'cid': 9, 'name': 'lowestRank', 'type': 'INTEGER', 'notnull': 0, 'dflt_value': None, 'pk': 0, 'desc':'最低排名'}
+{'cid': 10, 'name': 'averageAdmissionScore', 'type': 'INTEGER', 'notnull': 0, 'dflt_value': None, 'pk': 0, 'desc':'平均录取分数'}
+{'cid': 11, 'name': 'femaleLowestScore', 'type': 'INTEGER', 'notnull': 0, 'dflt_value': None, 'pk': 0, 'desc':'录取女学生最低分'}
+{'cid': 12, 'name': 'year', 'type': 'INTEGER', 'notnull': 0, 'dflt_value': None, 'pk': 0, 'desc':'招生年份'}
+
