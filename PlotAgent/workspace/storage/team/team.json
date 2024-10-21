@@ -1,0 +1,138 @@
+{
+    "env": {
+        "desc": "",
+        "roles": {
+            "DataInterpreter": {
+                "name": "David",
+                "profile": "DataInterpreter",
+                "goal": "",
+                "constraints": "",
+                "desc": "",
+                "is_human": false,
+                "role_id": "",
+                "states": [
+                    "0. WriteAnalysisCode"
+                ],
+                "actions": [
+                    {
+                        "name": "WriteAnalysisCode",
+                        "i_context": "",
+                        "prefix": "You are a DataInterpreter, named David, your goal is . ",
+                        "desc": "",
+                        "__module_class_name": "metagpt.actions.di.write_analysis_code.WriteAnalysisCode"
+                    }
+                ],
+                "rc": {
+                    "memory": {
+                        "storage": [],
+                        "index": {},
+                        "ignore_id": false
+                    },
+                    "working_memory": {
+                        "storage": [],
+                        "index": {},
+                        "ignore_id": false
+                    },
+                    "state": 0,
+                    "watch": [
+                        "metagpt.actions.add_requirement.UserRequirement"
+                    ],
+                    "react_mode": "plan_and_act",
+                    "max_react_loop": 1
+                },
+                "addresses": [
+                    "David",
+                    "metagpt.roles.di.data_interpreter.DataInterpreter"
+                ],
+                "planner": {
+                    "plan": {
+                        "goal": "",
+                        "context": "",
+                        "tasks": [],
+                        "task_map": {},
+                        "current_task_id": ""
+                    },
+                    "working_memory": {
+                        "storage": [],
+                        "index": {},
+                        "ignore_id": false
+                    },
+                    "auto_run": true
+                },
+                "recovered": false,
+                "latest_observed_msg": null,
+                "auto_run": true,
+                "use_plan": true,
+                "use_reflection": false,
+                "tools": [],
+                "tool_recommender": null,
+                "react_mode": "plan_and_act",
+                "max_react_loop": 10,
+                "__module_class_name": "metagpt.roles.di.data_interpreter.DataInterpreter"
+            },
+            "ReportAgent": {
+                "name": "Zhang",
+                "profile": "ReportAgent",
+                "goal": "",
+                "constraints": "",
+                "desc": "",
+                "is_human": false,
+                "role_id": "",
+                "states": [
+                    "0. ReportGenerator"
+                ],
+                "actions": [
+                    {
+                        "name": "ReportGenerator",
+                        "i_context": "",
+                        "prefix": "You are a ReportAgent, named Zhang, your goal is . ",
+                        "desc": "",
+                        "PROMPT_TEMPLATE": "\n    请你将对应的信息转换成HTML的表格格式，要求：\n    1、编排有条理性\n    2、符合对应的关系\n    相应信息如下：\n    {content}\n    ",
+                        "__module_class_name": "tool.ReportGenerator.ReportGenerator"
+                    }
+                ],
+                "rc": {
+                    "memory": {
+                        "storage": [],
+                        "index": {},
+                        "ignore_id": false
+                    },
+                    "working_memory": {
+                        "storage": [],
+                        "index": {},
+                        "ignore_id": false
+                    },
+                    "state": -1,
+                    "watch": [
+                        "metagpt.roles.di.data_interpreter.DataInterpreter"
+                    ],
+                    "react_mode": "react",
+                    "max_react_loop": 1
+                },
+                "addresses": [
+                    "agent.DataAnalyseAgent.ReportAgent",
+                    "Zhang"
+                ],
+                "planner": {
+                    "plan": {
+                        "goal": "",
+                        "context": "",
+                        "tasks": [],
+                        "task_map": {},
+                        "current_task_id": ""
+                    },
+                    "working_memory": {
+                        "storage": [],
+                        "index": {},
+                        "ignore_id": false
+                    },
+                    "auto_run": false
+                },
+                "recovered": false,
+                "latest_observed_msg": null,
+                "__module_class_name": "agent.DataAnalyseAgent.ReportAgent"
+            }
+        },
+        "history": "\nHuman: 请你对鸢尾花数据集做一个分析，并生成一篇HTML格式的分析报告"
+    },
+    "investment": 

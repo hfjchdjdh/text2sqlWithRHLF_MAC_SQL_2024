@@ -1,0 +1,51 @@
+feature,graph,mean,mode,median,variance,SD,missing values,custom requirement
+CDSCode,G:/python_project/RapStarAgent/plt_path/CDSCode.svg,N/A,1100170000000,N/A,N/A,N/A,0,None
+NCESDist,G:/python_project/RapStarAgent/plt_path/NCESDist.svg,624983.3251859724,628050.0,627060.0,532420534.298397,23074.239625573733,59,None
+NCESSchool,G:/python_project/RapStarAgent/plt_path/NCESSchool.svg,6891.445730824891,42.0,6951.0,18313519.0242245,4279.42975456129,309,None
+StatusType,G:/python_project/RapStarAgent/plt_path/StatusType.svg,N/A,Active,N/A,N/A,N/A,0,None
+County,G:/python_project/RapStarAgent/plt_path/County.svg,N/A,Alameda,N/A,N/A,N/A,0,None
+District,G:/python_project/RapStarAgent/plt_path/District.svg,N/A,Oakland Unified,N/A,N/A,N/A,0,None
+School,G:/python_project/RapStarAgent/plt_path/School.svg,N/A,Washington Elementary,N/A,N/A,N/A,62,None
+Street,G:/python_project/RapStarAgent/plt_path/Street.svg,N/A,217 Rex Avenue,N/A,N/A,N/A,16,None
+StreetAbr,G:/python_project/RapStarAgent/plt_path/StreetAbr.svg,N/A,217 Rex Ave.,N/A,N/A,N/A,16,None
+City,G:/python_project/RapStarAgent/plt_path/City.svg,N/A,Oakland,N/A,N/A,N/A,16,None
+Zip,G:/python_project/RapStarAgent/plt_path/Zip.svg,N/A,94566,N/A,N/A,N/A,16,None
+State,G:/python_project/RapStarAgent/plt_path/State.svg,N/A,CA,N/A,N/A,N/A,16,None
+MailStreet,G:/python_project/RapStarAgent/plt_path/MailStreet.svg,N/A,217 Rex Avenue,N/A,N/A,N/A,16,None
+MailStrAbr,G:/python_project/RapStarAgent/plt_path/MailStrAbr.svg,N/A,217 Rex Ave.,N/A,N/A,N/A,16,None
+MailCity,G:/python_project/RapStarAgent/plt_path/MailCity.svg,N/A,Oakland,N/A,N/A,N/A,16,None
+MailZip,G:/python_project/RapStarAgent/plt_path/MailZip.svg,N/A,94546,N/A,N/A,N/A,16,None
+MailState,G:/python_project/RapStarAgent/plt_path/MailState.svg,N/A,CA,N/A,N/A,N/A,16,None
+Phone,G:/python_project/RapStarAgent/plt_path/Phone.svg,N/A,(530) 891-3092,N/A,N/A,N/A,416,None
+Ext,G:/python_project/RapStarAgent/plt_path/Ext.svg,4597.433333333333,221.0,3054.0,51321015.28850575,7163.868737526236,970,None
+Website,G:/python_project/RapStarAgent/plt_path/Website.svg,N/A,www.newarkunified.org,N/A,N/A,N/A,695,None
+OpenDate,G:/python_project/RapStarAgent/plt_path/OpenDate.svg,N/A,1980-07-01,N/A,N/A,N/A,62,None
+ClosedDate,G:/python_project/RapStarAgent/plt_path/ClosedDate.svg,N/A,1989-06-30,N/A,N/A,N/A,599,None
+Charter,G:/python_project/RapStarAgent/plt_path/Charter.svg,0.11727078891257996,0.0,0.0,0.10362882947664481,0.3219143200863311,62,None
+CharterNum,G:/python_project/RapStarAgent/plt_path/CharterNum.svg,880.566371681416,14.0,836.0,269815.15850189637,519.4373480044503,887,None
+FundingType,G:/python_project/RapStarAgent/plt_path/FundingType.svg,N/A,Directly funded,N/A,N/A,N/A,898,None
+DOC,G:/python_project/RapStarAgent/plt_path/DOC.svg,N/A,54,N/A,N/A,N/A,0,None
+DOCType,G:/python_project/RapStarAgent/plt_path/DOCType.svg,N/A,Unified School District,N/A,N/A,N/A,0,None
+SOC,G:/python_project/RapStarAgent/plt_path/SOC.svg,57.10234541577825,60.0,60.0,291.7611257631646,17.081016531903614,62,None
+SOCType,G:/python_project/RapStarAgent/plt_path/SOCType.svg,N/A,Elementary Schools (Public),N/A,N/A,N/A,62,None
+EdOpsCode,G:/python_project/RapStarAgent/plt_path/EdOpsCode.svg,N/A,TRAD,N/A,N/A,N/A,363,None
+EdOpsName,G:/python_project/RapStarAgent/plt_path/EdOpsName.svg,N/A,Traditional,N/A,N/A,N/A,363,None
+EILCode,G:/python_project/RapStarAgent/plt_path/EILCode.svg,N/A,ELEM,N/A,N/A,N/A,62,None
+EILName,G:/python_project/RapStarAgent/plt_path/EILName.svg,N/A,Elementary,N/A,N/A,N/A,62,None
+GSoffered,G:/python_project/RapStarAgent/plt_path/GSoffered.svg,N/A,K-5,N/A,N/A,N/A,241,None
+GSserved,G:/python_project/RapStarAgent/plt_path/GSserved.svg,N/A,K-5,N/A,N/A,N/A,352,None
+Virtual,G:/python_project/RapStarAgent/plt_path/Virtual.svg,N/A,N,N/A,N/A,N/A,457,None
+Magnet,G:/python_project/RapStarAgent/plt_path/Magnet.svg,0.018796992481203006,0.0,0.0,0.018478399388301262,0.1359352764675206,468,None
+Latitude,G:/python_project/RapStarAgent/plt_path/Latitude.svg,38.11249017682926,38.352665,37.773157499999996,0.5985355805456205,0.7736508130582043,344,None
+Longitude,G:/python_project/RapStarAgent/plt_path/Longitude.svg,-121.93627349085367,-120.77703,-122.061775,0.19257226929420748,0.4388305701454805,344,None
+AdmFName1,G:/python_project/RapStarAgent/plt_path/AdmFName1.svg,N/A,Michael,N/A,N/A,N/A,417,None
+AdmLName1,G:/python_project/RapStarAgent/plt_path/AdmLName1.svg,N/A,Williams,N/A,N/A,N/A,417,None
+AdmEmail1,G:/python_project/RapStarAgent/plt_path/AdmEmail1.svg,N/A,delphine.sherman@aspirepublicschools.org,N/A,N/A,N/A,417,None
+AdmFName2,G:/python_project/RapStarAgent/plt_path/AdmFName2.svg,N/A,Brandon,N/A,N/A,N/A,966,None
+AdmLName2,G:/python_project/RapStarAgent/plt_path/AdmLName2.svg,N/A,Gaston,N/A,N/A,N/A,966,None
+AdmEmail2,G:/python_project/RapStarAgent/plt_path/AdmEmail2.svg,N/A,brandon.paige@lighthousecharter.org,N/A,N/A,N/A,966,None
+AdmFName3,G:/python_project/RapStarAgent/plt_path/AdmFName3.svg,N/A,Barbara,N/A,N/A,N/A,994,None
+AdmLName3,G:/python_project/RapStarAgent/plt_path/AdmLName3.svg,N/A,Chang,N/A,N/A,N/A,994,None
+AdmEmail3,G:/python_project/RapStarAgent/plt_path/AdmEmail3.svg,N/A,bmandelbaum@bcoe.org,N/A,N/A,N/A,994,None
+LastUpdate,G:/python_project/RapStarAgent/plt_path/LastUpdate.svg,N/A,1999-06-24,N/A,N/A,N/A,0,None
+NAVICAT_ROWID,G:/python_project/RapStarAgent/plt_path/NAVICAT_ROWID.svg,N/A,1,N/A,N/A,N/A,0,None

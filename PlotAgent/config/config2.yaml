@@ -1,0 +1,7 @@
+llm:
+  api_type: 'spark'
+  app_id: '448a29c7'
+  api_key: '81e54607abc2b61cc33b27d86a4bf05f'
+  api_secret: 'OWY2NDI0Mjc0YjA3YjczODgzYmExMGFl'
+  domain: 'generalv3'
+  base_url: 'ws://spark-api.xf-yun.com/v3.5/chat'

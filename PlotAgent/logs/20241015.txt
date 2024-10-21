@@ -1,0 +1,196 @@
+2024-10-15 15:56:18.397 | DEBUG    | metagpt.roles.role:_observe:431 - Alice(Product Manager) observed: ['user: Write a PRD for a sn...']
+2024-10-15 15:56:18.397 | DEBUG    | metagpt.roles.role:_set_state:325 - actions=[PrepareDocuments, WritePRD], state=0
+2024-10-15 15:56:18.398 | DEBUG    | metagpt.roles.role:_react:462 - Alice(Product Manager): self.rc.state=0, will do PrepareDocuments
+2024-10-15 15:56:18.398 | INFO     | metagpt.roles.role:_act:391 - Alice(Product Manager): to do PrepareDocuments(PrepareDocuments)
+2024-10-15 15:56:18.948 | INFO     | metagpt.utils.file_repository:save:57 - save to: G:\python_project\RapStarAgent\workspace\20241015155618\docs\requirement.txt
+2024-10-15 15:56:18.948 | DEBUG    | metagpt.roles.role:_set_state:325 - actions=[PrepareDocuments, WritePRD], state=-1
+2024-10-15 15:56:18.949 | INFO     | __main__:main:11 - Write a PRD for a snake game
+2024-10-15 15:59:20.866 | DEBUG    | metagpt.roles.role:_observe:431 - Alice(Product Manager) observed: ['user: Write a PRD for a sn...']
+2024-10-15 15:59:20.866 | DEBUG    | metagpt.roles.role:_set_state:325 - actions=[PrepareDocuments, WritePRD], state=0
+2024-10-15 15:59:20.867 | DEBUG    | metagpt.roles.role:_react:462 - Alice(Product Manager): self.rc.state=0, will do PrepareDocuments
+2024-10-15 15:59:20.867 | INFO     | metagpt.roles.role:_act:391 - Alice(Product Manager): to do PrepareDocuments(PrepareDocuments)
+2024-10-15 15:59:21.046 | INFO     | metagpt.utils.file_repository:save:57 - save to: G:\python_project\RapStarAgent\workspace\20241015155920\docs\requirement.txt
+2024-10-15 15:59:21.046 | DEBUG    | metagpt.roles.role:_set_state:325 - actions=[PrepareDocuments, WritePRD], state=-1
+2024-10-15 15:59:21.046 | INFO     | __main__:main:11 - Write a PRD for a snake game
+2024-10-15 16:01:13.093 | DEBUG    | metagpt.roles.role:_observe:431 - Alice(Product Manager) observed: ['user: Write a PRD for a sn...']
+2024-10-15 16:01:13.094 | DEBUG    | metagpt.roles.role:_set_state:325 - actions=[PrepareDocuments, WritePRD], state=0
+2024-10-15 16:01:13.094 | DEBUG    | metagpt.roles.role:_react:462 - Alice(Product Manager): self.rc.state=0, will do PrepareDocuments
+2024-10-15 16:01:13.094 | INFO     | metagpt.roles.role:_act:391 - Alice(Product Manager): to do PrepareDocuments(PrepareDocuments)
+2024-10-15 16:01:13.298 | INFO     | metagpt.utils.file_repository:save:57 - save to: G:\python_project\RapStarAgent\workspace\20241015160113\docs\requirement.txt
+2024-10-15 16:01:13.299 | DEBUG    | metagpt.roles.role:_set_state:325 - actions=[PrepareDocuments, WritePRD], state=-1
+2024-10-15 16:01:13.299 | INFO     | __main__:main:11 - Write a PRD for a snake game
+2024-10-15 20:16:07.441 | DEBUG    | metagpt.roles.role:_observe:431 - Alice(Product Manager) observed: ['user: Write a PRD for a sn...']
+2024-10-15 20:16:07.441 | DEBUG    | metagpt.roles.role:_set_state:325 - actions=[PrepareDocuments, WritePRD], state=0
+2024-10-15 20:16:07.442 | DEBUG    | metagpt.roles.role:_react:462 - Alice(Product Manager): self.rc.state=0, will do PrepareDocuments
+2024-10-15 20:16:07.442 | INFO     | metagpt.roles.role:_act:391 - Alice(Product Manager): to do PrepareDocuments(PrepareDocuments)
+2024-10-15 20:16:07.861 | INFO     | metagpt.utils.file_repository:save:57 - save to: G:\python_project\RapStarAgent\workspace\20241015201607\docs\requirement.txt
+2024-10-15 20:16:07.861 | DEBUG    | metagpt.roles.role:_set_state:325 - actions=[PrepareDocuments, WritePRD], state=-1
+2024-10-15 20:16:07.862 | INFO     | __main__:main:11 - Write a PRD for a snake game
+2024-10-15 20:21:50.173 | WARNING  | metagpt.provider.spark_api:__init__:30 - SparkLLM：当前方法无法支持异步运行。当你使用acompletion时，并不能并行访问。
+2024-10-15 20:21:50.174 | DEBUG    | metagpt.roles.role:_observe:431 - Alice(Product Manager) observed: ['user: Write a PRD for a sn...']
+2024-10-15 20:21:50.175 | DEBUG    | metagpt.roles.role:_set_state:325 - actions=[PrepareDocuments, WritePRD], state=0
+2024-10-15 20:21:50.175 | DEBUG    | metagpt.roles.role:_react:462 - Alice(Product Manager): self.rc.state=0, will do PrepareDocuments
+2024-10-15 20:21:50.175 | INFO     | metagpt.roles.role:_act:391 - Alice(Product Manager): to do PrepareDocuments(PrepareDocuments)
+2024-10-15 20:21:50.482 | INFO     | metagpt.utils.file_repository:save:57 - save to: G:\python_project\RapStarAgent\workspace\20241015202150\docs\requirement.txt
+2024-10-15 20:21:50.482 | DEBUG    | metagpt.roles.role:_set_state:325 - actions=[PrepareDocuments, WritePRD], state=-1
+2024-10-15 20:21:50.482 | INFO     | __main__:main:11 - Write a PRD for a snake game
+2024-10-15 20:22:24.216 | WARNING  | metagpt.provider.spark_api:__init__:30 - SparkLLM：当前方法无法支持异步运行。当你使用acompletion时，并不能并行访问。
+2024-10-15 20:22:24.219 | DEBUG    | metagpt.roles.role:_observe:431 - Alice(Product Manager) observed: ['user: Write a PRD for a sn...']
+2024-10-15 20:22:24.219 | DEBUG    | metagpt.roles.role:_set_state:325 - actions=[PrepareDocuments, WritePRD], state=0
+2024-10-15 20:22:24.220 | DEBUG    | metagpt.roles.role:_react:462 - Alice(Product Manager): self.rc.state=0, will do PrepareDocuments
+2024-10-15 20:22:24.220 | INFO     | metagpt.roles.role:_act:391 - Alice(Product Manager): to do PrepareDocuments(PrepareDocuments)
+2024-10-15 20:22:24.419 | INFO     | metagpt.utils.file_repository:save:57 - save to: G:\python_project\RapStarAgent\workspace\20241015202224\docs\requirement.txt
+2024-10-15 20:22:24.420 | DEBUG    | metagpt.roles.role:_set_state:325 - actions=[PrepareDocuments, WritePRD], state=-1
+2024-10-15 20:22:24.420 | INFO     | __main__:main:11 - Write a PRD for a snake game,and do coding job
+2024-10-15 20:23:22.483 | WARNING  | metagpt.provider.spark_api:__init__:30 - SparkLLM：当前方法无法支持异步运行。当你使用acompletion时，并不能并行访问。
+2024-10-15 20:23:22.485 | DEBUG    | metagpt.roles.role:_observe:431 - Alice(Product Manager) observed: ['user: Write a PRD for a sn...']
+2024-10-15 20:23:22.486 | DEBUG    | metagpt.roles.role:_set_state:325 - actions=[PrepareDocuments, WritePRD], state=0
+2024-10-15 20:23:22.486 | DEBUG    | metagpt.roles.role:_react:462 - Alice(Product Manager): self.rc.state=0, will do PrepareDocuments
+2024-10-15 20:23:22.486 | INFO     | metagpt.roles.role:_act:391 - Alice(Product Manager): to do PrepareDocuments(PrepareDocuments)
+2024-10-15 20:23:22.673 | INFO     | metagpt.utils.file_repository:save:57 - save to: G:\python_project\RapStarAgent\workspace\20241015202322\docs\requirement.txt
+2024-10-15 20:23:22.673 | DEBUG    | metagpt.roles.role:_set_state:325 - actions=[PrepareDocuments, WritePRD], state=-1
+2024-10-15 20:23:22.673 | INFO     | __main__:main:11 - Write a PRD for a snake game,and do coding job
+2024-10-15 23:33:38.802 | WARNING  | metagpt.provider.spark_api:__init__:30 - SparkLLM：当前方法无法支持异步运行。当你使用acompletion时，并不能并行访问。
+2024-10-15 23:33:38.804 | DEBUG    | metagpt.roles.role:_observe:431 - Alice(Product Manager) observed: ['user: Write a PRD for a sn...']
+2024-10-15 23:33:38.804 | DEBUG    | metagpt.roles.role:_set_state:325 - actions=[PrepareDocuments, WritePRD], state=0
+2024-10-15 23:33:38.804 | DEBUG    | metagpt.roles.role:_react:462 - Alice(Product Manager): self.rc.state=0, will do PrepareDocuments
+2024-10-15 23:33:38.804 | INFO     | metagpt.roles.role:_act:391 - Alice(Product Manager): to do PrepareDocuments(PrepareDocuments)
+2024-10-15 23:33:39.164 | INFO     | metagpt.utils.file_repository:save:57 - save to: G:\python_project\RapStarAgent\workspace\20241015233338\docs\requirement.txt
+2024-10-15 23:33:39.164 | DEBUG    | metagpt.roles.role:_set_state:325 - actions=[PrepareDocuments, WritePRD], state=-1
+2024-10-15 23:33:39.165 | INFO     | __main__:main:14 - Alice(Product Manager): {'root_path': 'docs', 'filename': 'requirement.txt', 'content': 'Write a PRD for a snake game'}
+2024-10-15 23:33:39.165 | DEBUG    | metagpt.roles.role:_observe:431 - Alice(Product Manager) observed: ['Alice(Product Manager): Write a PRD for a sn...']
+2024-10-15 23:33:39.165 | DEBUG    | metagpt.roles.role:_set_state:325 - actions=[PrepareDocuments, WritePRD], state=1
+2024-10-15 23:33:39.166 | DEBUG    | metagpt.roles.role:_react:462 - Alice(Product Manager): self.rc.state=1, will do WritePRD
+2024-10-15 23:33:39.166 | INFO     | metagpt.roles.role:_act:391 - Alice(Product Manager): to do WritePRD(WritePRD)
+2024-10-15 23:33:39.181 | INFO     | metagpt.actions.write_prd:run:86 - New requirement detected: Write a PRD for a snake game
+2024-10-15 23:33:39.182 | DEBUG    | metagpt.provider.base_llm:aask:149 - [{'role': 'system', 'content': 'You are a Product Manager, named Alice, your goal is efficiently create a successful product that meets market demands and user expectations. the constraint is utilize the same language as the user requirements for seamless communication. '}, {'role': 'user', 'content': '\n## context\n\n### Project Name\n\n\n### Original Requirements\nWrite a PRD for a snake game\n\n### Search Information\n-\n\n\n-----\n\n## format example\n[CONTENT]\n{\n    "Language": "en_us",\n    "Programming Language": "Python",\n    "Original Requirements": "Create a 2048 game",\n    "Project Name": "game_2048",\n    "Product Goals": [\n        "Create an engaging user experience",\n        "Improve accessibility, be responsive",\n        "More beautiful UI"\n    ],\n    "User Stories": [\n        "As a player, I want to be able to choose difficulty levels",\n        "As a player, I want to see my score after each game",\n        "As a player, I want to get restart button when I lose",\n        "As a player, I want to see beautiful UI that make me feel good",\n        "As a player, I want to play game via mobile phone"\n    ],\n    "Competitive Analysis": [\n        "2048 Game A: Simple interface, lacks responsive features",\n        "play2048.co: Beautiful and responsive UI with my best score shown",\n        "2048game.com: Responsive UI with my best score shown, but many ads"\n    ],\n    "Competitive Quadrant Chart": "quadrantChart\\n    title \\"Reach and engagement of campaigns\\"\\n    x-axis \\"Low Reach\\" --> \\"High Reach\\"\\n    y-axis \\"Low Engagement\\" --> \\"High Engagement\\"\\n    quadrant-1 \\"We should expand\\"\\n    quadrant-2 \\"Need to promote\\"\\n    quadrant-3 \\"Re-evaluate\\"\\n    quadrant-4 \\"May be improved\\"\\n    \\"Campaign A\\": [0.3, 0.6]\\n    \\"Campaign B\\": [0.45, 0.23]\\n    \\"Campaign C\\": [0.57, 0.69]\\n    \\"Campaign D\\": [0.78, 0.34]\\n    \\"Campaign E\\": [0.40, 0.34]\\n    \\"Campaign F\\": [0.35, 0.78]\\n    \\"Our Target Product\\": [0.5, 0.6]",\n    "Requirement Analysis": "",\n    "Requirement Pool": [\n        [\n            "P0",\n            "The main code ..."\n        ],\n        [\n            "P0",\n            "The game algorithm ..."\n        ]\n    ],\n    "UI Design draft": "Basic function description with a simple style and layout.",\n    "Anything UNCLEAR": ""\n}\n[/CONTENT]\n\n## nodes: "<node>: <type>  # <instruction>"\n- Language: <class \'str\'>  # Provide the language used in the project, typically matching the user\'s requirement language.\n- Programming Language: <class \'str\'>  # Python/JavaScript or other mainstream programming language.\n- Original Requirements: <class \'str\'>  # Place the original user\'s requirements here.\n- Project Name: <class \'str\'>  # According to the content of "Original Requirements," name the project using snake case style , like \'game_2048\' or \'simple_crm.\n- Product Goals: typing.List[str]  # Provide up to three clear, orthogonal product goals.\n- User Stories: typing.List[str]  # Provide up to 3 to 5 scenario-based user stories.\n- Competitive Analysis: typing.List[str]  # Provide 5 to 7 competitive products.\n- Competitive Quadrant Chart: <class \'str\'>  # Use mermaid quadrantChart syntax. Distribute scores evenly between 0 and 1\n- Requirement Analysis: <class \'str\'>  # Provide a detailed analysis of the requirements.\n- Requirement Pool: typing.List[typing.List[str]]  # List down the top-5 requirements with their priority (P0, P1, P2).\n- UI Design draft: <class \'str\'>  # Provide a simple description of UI elements, functions, style, and layout.\n- Anything UNCLEAR: <class \'str\'>  # Mention any aspects of the project that are unclear and try to clarify them.\n\n\n## constraint\nLanguage: Please use the same language as Human INPUT.\nFormat: output wrapped inside [CONTENT][/CONTENT] like format example, nothing else.\n\n## action\nFollow instructions of nodes, generate output and make sure it follows the format example.\n'}]
+2024-10-15 23:33:58.556 | DEBUG    | metagpt.actions.action_node:_aask_v1:421 - llm raw output:
+[CONTENT]
+{
+    "Language": "en_us",
+    "Programming Language": "Python",
+    "Original Requirements": "Write a PRD for a snake game",
+    "Project Name": "game_snake",
+    "Product Goals": [
+        "Create an engaging user experience",
+        "Improve accessibility, be responsive",
+        "More beautiful UI"
+    ],
+    "User Stories": [
+        "As a player, I want to control the snake using arrow keys",
+        "As a player, I want to see my score after each game",
+        "As a player, I want to get restart button when I lose",
+        "As a player, I want to see beautiful UI that make me feel good",
+        "As a player, I want to play game via mobile phone"
+    ],
+    "Competitive Analysis": [
+        "Snake Game A: Simple interface, lacks responsive features",
+        "playsnake.co: Beautiful and responsive UI with my best score shown",
+        "snakegame.com: Responsive UI with my best score shown, but many ads"
+    ],
+    "Competitive Quadrant Chart": "quadrantChart\n    title \"Reach and engagement of campaigns\"\n    x-axis \"Low Reach\" --> \"High Reach\"\n    y-axis \"Low Engagement\" --> \"High Engagement\"\n    quadrant-1 \"We should expand\"\n    quadrant-2 \"Need to promote\"\n    quadrant-3 \"Re-evaluate\"\n    quadrant-4 \"May be improved\"\n    \"Campaign A\": [0.3, 0.6]\n    \"Campaign B\": [0.45, 0.23]\n    \"Campaign C\": [0.57, 0.69]\n    \"Campaign D\": [0.78, 0.34]\n    \"Campaign E\": [0.40, 0.34]\n    \"Campaign F\": [0.35, 0.78]\n    \"Our Target Product\": [0.5, 0.6]",
+    "Requirement Analysis": "",
+    "Requirement Pool": [
+        [
+            "P0",
+            "The main code for snake movement and game logic"
+        ],
+        [
+            "P0",
+            "The game algorithm for scoring and level progression"
+        ]
+    ],
+    "UI Design draft": "Basic function description with a simple style and layout.",
+    "Anything UNCLEAR": ""
+}
+[/CONTENT]
+2024-10-15 23:33:58.566 | DEBUG    | metagpt.actions.action_node:_aask_v1:431 - parsed_data:
+{'Language': 'en_us', 'Programming Language': 'Python', 'Original Requirements': 'Write a PRD for a snake game', 'Project Name': 'game_snake', 'Product Goals': ['Create an engaging user experience', 'Improve accessibility, be responsive', 'More beautiful UI'], 'User Stories': ['As a player, I want to control the snake using arrow keys', 'As a player, I want to see my score after each game', 'As a player, I want to get restart button when I lose', 'As a player, I want to see beautiful UI that make me feel good', 'As a player, I want to play game via mobile phone'], 'Competitive Analysis': ['Snake Game A: Simple interface, lacks responsive features', 'playsnake.co: Beautiful and responsive UI with my best score shown', 'snakegame.com: Responsive UI with my best score shown, but many ads'], 'Competitive Quadrant Chart': 'quadrantChart\n    title "Reach and engagement of campaigns"\n    x-axis "Low Reach" --> "High Reach"\n    y-axis "Low Engagement" --> "High Engagement"\n    quadrant-1 "We should expand"\n    quadrant-2 "Need to promote"\n    quadrant-3 "Re-evaluate"\n    quadrant-4 "May be improved"\n    "Campaign A": [0.3, 0.6]\n    "Campaign B": [0.45, 0.23]\n    "Campaign C": [0.57, 0.69]\n    "Campaign D": [0.78, 0.34]\n    "Campaign E": [0.40, 0.34]\n    "Campaign F": [0.35, 0.78]\n    "Our Target Product": [0.5, 0.6]', 'Requirement Analysis': '', 'Requirement Pool': [['P0', 'The main code for snake movement and game logic'], ['P0', 'The game algorithm for scoring and level progression']], 'UI Design draft': 'Basic function description with a simple style and layout.', 'Anything UNCLEAR': ''}
+2024-10-15 23:33:58.856 | WARNING  | metagpt.utils.git_repository:rename_root:214 - Move G:\python_project\RapStarAgent\workspace\20241015233338 to G:\python_project\RapStarAgent\workspace\game_snake error: [WinError 32] 另一个程序正在使用此文件，进程无法访问。: 'G:\\python_project\\RapStarAgent\\workspace\\20241015233338'
+2024-10-15 23:33:58.856 | INFO     | metagpt.utils.git_repository:rename_root:219 - Rename directory G:\python_project\RapStarAgent\workspace\20241015233338 to G:\python_project\RapStarAgent\workspace\game_snake
+2024-10-15 23:33:58.864 | INFO     | metagpt.utils.file_repository:save:57 - save to: G:\python_project\RapStarAgent\workspace\game_snake\docs\prd\20241015233358.json
+2024-10-15 23:33:59.008 | WARNING  | metagpt.utils.mermaid:mermaid_to_file:35 - RUN `npm install -g @mermaid-js/mermaid-cli` to install mmdc,or consider changing engine to `playwright`, `pyppeteer`, or `ink`.
+2024-10-15 23:33:59.010 | INFO     | metagpt.utils.file_repository:save:57 - save to: G:\python_project\RapStarAgent\workspace\game_snake\resources\prd\20241015233358.md
+2024-10-15 23:33:59.010 | DEBUG    | metagpt.utils.file_repository:save_pdf:220 - File Saved: 20241015233358.md
+2024-10-15 23:33:59.011 | DEBUG    | metagpt.roles.role:_set_state:325 - actions=[PrepareDocuments, WritePRD], state=-1
+2024-10-15 23:33:59.011 | INFO     | __main__:main:14 - Alice(Product Manager): {'docs': {'20241015233358.json': {'root_path': 'docs\\prd', 'filename': '20241015233358.json', 'content': '{"Language":"en_us","Programming Language":"Python","Original Requirements":"Write a PRD for a snake game","Project Name":"game_snake","Product Goals":["Create an engaging user experience","Improve accessibility, be responsive","More beautiful UI"],"User Stories":["As a player, I want to control the snake using arrow keys","As a player, I want to see my score after each game","As a player, I want to get restart button when I lose","As a player, I want to see beautiful UI that make me feel good","As a player, I want to play game via mobile phone"],"Competitive Analysis":["Snake Game A: Simple interface, lacks responsive features","playsnake.co: Beautiful and responsive UI with my best score shown","snakegame.com: Responsive UI with my best score shown, but many ads"],"Competitive Quadrant Chart":"quadrantChart\\n    title \\"Reach and engagement of campaigns\\"\\n    x-axis \\"Low Reach\\" --> \\"High Reach\\"\\n    y-axis \\"Low Engagement\\" --> \\"High Engagement\\"\\n    quadrant-1 \\"We should expand\\"\\n    quadrant-2 \\"Need to promote\\"\\n    quadrant-3 \\"Re-evaluate\\"\\n    quadrant-4 \\"May be improved\\"\\n    \\"Campaign A\\": [0.3, 0.6]\\n    \\"Campaign B\\": [0.45, 0.23]\\n    \\"Campaign C\\": [0.57, 0.69]\\n    \\"Campaign D\\": [0.78, 0.34]\\n    \\"Campaign E\\": [0.40, 0.34]\\n    \\"Campaign F\\": [0.35, 0.78]\\n    \\"Our Target Product\\": [0.5, 0.6]","Requirement Analysis":"","Requirement Pool":[["P0","The main code for snake movement and game logic"],["P0","The game algorithm for scoring and level progression"]],"UI Design draft":"Basic function description with a simple style and layout.","Anything UNCLEAR":""}'}}}
+2024-10-15 23:33:59.011 | DEBUG    | metagpt.roles.role:run:547 - Alice(Product Manager): no news. waiting.
+2024-10-15 23:33:59.011 | INFO     | __main__:main:14 - None
+2024-10-15 23:35:10.099 | WARNING  | metagpt.provider.spark_api:__init__:30 - SparkLLM：当前方法无法支持异步运行。当你使用acompletion时，并不能并行访问。
+2024-10-15 23:35:10.100 | DEBUG    | metagpt.roles.role:_observe:431 - Alice(Product Manager) observed: ['user: Write a PRD and a Cl...']
+2024-10-15 23:35:10.100 | DEBUG    | metagpt.roles.role:_set_state:325 - actions=[PrepareDocuments, WritePRD], state=0
+2024-10-15 23:35:10.101 | DEBUG    | metagpt.roles.role:_react:462 - Alice(Product Manager): self.rc.state=0, will do PrepareDocuments
+2024-10-15 23:35:10.101 | INFO     | metagpt.roles.role:_act:391 - Alice(Product Manager): to do PrepareDocuments(PrepareDocuments)
+2024-10-15 23:35:10.426 | INFO     | metagpt.utils.file_repository:save:57 - save to: G:\python_project\RapStarAgent\workspace\20241015233510\docs\requirement.txt
+2024-10-15 23:35:10.427 | DEBUG    | metagpt.roles.role:_set_state:325 - actions=[PrepareDocuments, WritePRD], state=-1
+2024-10-15 23:35:10.428 | INFO     | __main__:main:14 - Alice(Product Manager): {'root_path': 'docs', 'filename': 'requirement.txt', 'content': 'Write a PRD and a Class View for a snake game'}
+2024-10-15 23:35:10.428 | DEBUG    | metagpt.roles.role:_observe:431 - Alice(Product Manager) observed: ['Alice(Product Manager): Write a PRD and a Cl...']
+2024-10-15 23:35:10.428 | DEBUG    | metagpt.roles.role:_set_state:325 - actions=[PrepareDocuments, WritePRD], state=1
+2024-10-15 23:35:10.428 | DEBUG    | metagpt.roles.role:_react:462 - Alice(Product Manager): self.rc.state=1, will do WritePRD
+2024-10-15 23:35:10.429 | INFO     | metagpt.roles.role:_act:391 - Alice(Product Manager): to do WritePRD(WritePRD)
+2024-10-15 23:35:10.443 | INFO     | metagpt.actions.write_prd:run:86 - New requirement detected: Write a PRD and a Class View for a snake game
+2024-10-15 23:35:10.444 | DEBUG    | metagpt.provider.base_llm:aask:149 - [{'role': 'system', 'content': 'You are a Product Manager, named Alice, your goal is efficiently create a successful product that meets market demands and user expectations. the constraint is utilize the same language as the user requirements for seamless communication. '}, {'role': 'user', 'content': '\n## context\n\n### Project Name\n\n\n### Original Requirements\nWrite a PRD and a Class View for a snake game\n\n### Search Information\n-\n\n\n-----\n\n## format example\n[CONTENT]\n{\n    "Language": "en_us",\n    "Programming Language": "Python",\n    "Original Requirements": "Create a 2048 game",\n    "Project Name": "game_2048",\n    "Product Goals": [\n        "Create an engaging user experience",\n        "Improve accessibility, be responsive",\n        "More beautiful UI"\n    ],\n    "User Stories": [\n        "As a player, I want to be able to choose difficulty levels",\n        "As a player, I want to see my score after each game",\n        "As a player, I want to get restart button when I lose",\n        "As a player, I want to see beautiful UI that make me feel good",\n        "As a player, I want to play game via mobile phone"\n    ],\n    "Competitive Analysis": [\n        "2048 Game A: Simple interface, lacks responsive features",\n        "play2048.co: Beautiful and responsive UI with my best score shown",\n        "2048game.com: Responsive UI with my best score shown, but many ads"\n    ],\n    "Competitive Quadrant Chart": "quadrantChart\\n    title \\"Reach and engagement of campaigns\\"\\n    x-axis \\"Low Reach\\" --> \\"High Reach\\"\\n    y-axis \\"Low Engagement\\" --> \\"High Engagement\\"\\n    quadrant-1 \\"We should expand\\"\\n    quadrant-2 \\"Need to promote\\"\\n    quadrant-3 \\"Re-evaluate\\"\\n    quadrant-4 \\"May be improved\\"\\n    \\"Campaign A\\": [0.3, 0.6]\\n    \\"Campaign B\\": [0.45, 0.23]\\n    \\"Campaign C\\": [0.57, 0.69]\\n    \\"Campaign D\\": [0.78, 0.34]\\n    \\"Campaign E\\": [0.40, 0.34]\\n    \\"Campaign F\\": [0.35, 0.78]\\n    \\"Our Target Product\\": [0.5, 0.6]",\n    "Requirement Analysis": "",\n    "Requirement Pool": [\n        [\n            "P0",\n            "The main code ..."\n        ],\n        [\n            "P0",\n            "The game algorithm ..."\n        ]\n    ],\n    "UI Design draft": "Basic function description with a simple style and layout.",\n    "Anything UNCLEAR": ""\n}\n[/CONTENT]\n\n## nodes: "<node>: <type>  # <instruction>"\n- Language: <class \'str\'>  # Provide the language used in the project, typically matching the user\'s requirement language.\n- Programming Language: <class \'str\'>  # Python/JavaScript or other mainstream programming language.\n- Original Requirements: <class \'str\'>  # Place the original user\'s requirements here.\n- Project Name: <class \'str\'>  # According to the content of "Original Requirements," name the project using snake case style , like \'game_2048\' or \'simple_crm.\n- Product Goals: typing.List[str]  # Provide up to three clear, orthogonal product goals.\n- User Stories: typing.List[str]  # Provide up to 3 to 5 scenario-based user stories.\n- Competitive Analysis: typing.List[str]  # Provide 5 to 7 competitive products.\n- Competitive Quadrant Chart: <class \'str\'>  # Use mermaid quadrantChart syntax. Distribute scores evenly between 0 and 1\n- Requirement Analysis: <class \'str\'>  # Provide a detailed analysis of the requirements.\n- Requirement Pool: typing.List[typing.List[str]]  # List down the top-5 requirements with their priority (P0, P1, P2).\n- UI Design draft: <class \'str\'>  # Provide a simple description of UI elements, functions, style, and layout.\n- Anything UNCLEAR: <class \'str\'>  # Mention any aspects of the project that are unclear and try to clarify them.\n\n\n## constraint\nLanguage: Please use the same language as Human INPUT.\nFormat: output wrapped inside [CONTENT][/CONTENT] like format example, nothing else.\n\n## action\nFollow instructions of nodes, generate output and make sure it follows the format example.\n'}]
+2024-10-15 23:35:36.854 | DEBUG    | metagpt.actions.action_node:_aask_v1:421 - llm raw output:
+[CONTENT]
+{
+    "Language": "en_us",
+    "Programming Language": "Python",
+    "Original Requirements": "Write a PRD and a Class View for a snake game",
+    "Project Name": "snake_game_prd",
+    "Product Goals": [
+        "Create an engaging user experience",
+        "Improve accessibility, be responsive",
+        "More beautiful UI"
+    ],
+    "User Stories": [
+        "As a player, I want to control the snake using arrow keys",
+        "As a player, I want to see my score increase as I eat food",
+        "As a player, I want to pause and resume the game",
+        "As a player, I want to have different levels with increasing speed",
+        "As a player, I want to see my high scores saved and displayed"
+    ],
+    "Competitive Analysis": [
+        "Snake Game A: Simple interface, lacks customization options",
+        "SnakeGame.com: Responsive UI but has intrusive ads",
+        "SnakeMaster: Beautiful design but lacks cloud save feature"
+    ],
+    "Competitive Quadrant Chart": "quadrantChart\n    title \"Reach and engagement of campaigns\"\n    x-axis \"Low Reach\" --> \"High Reach\"\n    y-axis \"Low Engagement\" --> \"High Engagement\"\n    quadrant-1 \"We should expand\"\n    quadrant-2 \"Need to promote\"\n    quadrant-3 \"Re-evaluate\"\n    quadrant-4 \"May be improved\"\n    \"Campaign A\": [0.3, 0.6]\n    \"Campaign B\": [0.45, 0.23]\n    \"Campaign C\": [0.57, 0.69]\n    \"Campaign D\": [0.78, 0.34]\n    \"Campaign E\": [0.40, 0.34]\n    \"Campaign F\": [0.35, 0.78]\n    \"Our Target Product\": [0.5, 0.6]",
+    "Requirement Analysis": "",
+    "Requirement Pool": [
+        [
+            "P0",
+            "The main code for snake movement and game logic"
+        ],
+        [
+            "P0",
+            "The ability to control the snake using arrow keys"
+        ],
+        [
+            "P1",
+            "A system to track and display the player's score"
+        ],
+        [
+            "P1",
+            "Different levels with varying speeds"
+        ],
+        [
+            "P2",
+            "Cloud save functionality to store high scores"
+        ]
+    ],
+    "UI Design draft": "Basic function description with a simple style and layout. The game board will be a grid with the snake represented by blocks. Food items will appear at random locations. Score and level information will be displayed on the top or bottom of the screen.",
+    "Anything UNCLEAR": ""
+}
+[/CONTENT]
+2024-10-15 23:35:36.867 | DEBUG    | metagpt.actions.action_node:_aask_v1:431 - parsed_data:
+{'Language': 'en_us', 'Programming Language': 'Python', 'Original Requirements': 'Write a PRD and a Class View for a snake game', 'Project Name': 'snake_game_prd', 'Product Goals': ['Create an engaging user experience', 'Improve accessibility, be responsive', 'More beautiful UI'], 'User Stories': ['As a player, I want to control the snake using arrow keys', 'As a player, I want to see my score increase as I eat food', 'As a player, I want to pause and resume the game', 'As a player, I want to have different levels with increasing speed', 'As a player, I want to see my high scores saved and displayed'], 'Competitive Analysis': ['Snake Game A: Simple interface, lacks customization options', 'SnakeGame.com: Responsive UI but has intrusive ads', 'SnakeMaster: Beautiful design but lacks cloud save feature'], 'Competitive Quadrant Chart': 'quadrantChart\n    title "Reach and engagement of campaigns"\n    x-axis "Low Reach" --> "High Reach"\n    y-axis "Low Engagement" --> "High Engagement"\n    quadrant-1 "We should expand"\n    quadrant-2 "Need to promote"\n    quadrant-3 "Re-evaluate"\n    quadrant-4 "May be improved"\n    "Campaign A": [0.3, 0.6]\n    "Campaign B": [0.45, 0.23]\n    "Campaign C": [0.57, 0.69]\n    "Campaign D": [0.78, 0.34]\n    "Campaign E": [0.40, 0.34]\n    "Campaign F": [0.35, 0.78]\n    "Our Target Product": [0.5, 0.6]', 'Requirement Analysis': '', 'Requirement Pool': [['P0', 'The main code for snake movement and game logic'], ['P0', 'The ability to control the snake using arrow keys'], ['P1', "A system to track and display the player's score"], ['P1', 'Different levels with varying speeds'], ['P2', 'Cloud save functionality to store high scores']], 'UI Design draft': 'Basic function description with a simple style and layout. The game board will be a grid with the snake represented by blocks. Food items will appear at random locations. Score and level information will be displayed on the top or bottom of the screen.', 'Anything UNCLEAR': ''}
+2024-10-15 23:35:37.010 | WARNING  | metagpt.utils.git_repository:rename_root:214 - Move G:\python_project\RapStarAgent\workspace\20241015233510 to G:\python_project\RapStarAgent\workspace\snake_game_prd error: [WinError 32] 另一个程序正在使用此文件，进程无法访问。: 'G:\\python_project\\RapStarAgent\\workspace\\20241015233510'
+2024-10-15 23:35:37.010 | INFO     | metagpt.utils.git_repository:rename_root:219 - Rename directory G:\python_project\RapStarAgent\workspace\20241015233510 to G:\python_project\RapStarAgent\workspace\snake_game_prd
+2024-10-15 23:35:37.023 | INFO     | metagpt.utils.file_repository:save:57 - save to: G:\python_project\RapStarAgent\workspace\snake_game_prd\docs\prd\20241015233537.json
+2024-10-15 23:35:37.150 | WARNING  | metagpt.utils.mermaid:mermaid_to_file:35 - RUN `npm install -g @mermaid-js/mermaid-cli` to install mmdc,or consider changing engine to `playwright`, `pyppeteer`, or `ink`.
+2024-10-15 23:35:37.152 | INFO     | metagpt.utils.file_repository:save:57 - save to: G:\python_project\RapStarAgent\workspace\snake_game_prd\resources\prd\20241015233537.md
+2024-10-15 23:35:37.153 | DEBUG    | metagpt.utils.file_repository:save_pdf:220 - File Saved: 20241015233537.md
+2024-10-15 23:35:37.153 | DEBUG    | metagpt.roles.role:_set_state:325 - actions=[PrepareDocuments, WritePRD], state=-1
+2024-10-15 23:35:37.154 | INFO     | __main__:main:14 - Alice(Product Manager): {'docs': {'20241015233537.json': {'root_path': 'docs\\prd', 'filename': '20241015233537.json', 'content': '{"Language":"en_us","Programming Language":"Python","Original Requirements":"Write a PRD and a Class View for a snake game","Project Name":"snake_game_prd","Product Goals":["Create an engaging user experience","Improve accessibility, be responsive","More beautiful UI"],"User Stories":["As a player, I want to control the snake using arrow keys","As a player, I want to see my score increase as I eat food","As a player, I want to pause and resume the game","As a player, I want to have different levels with increasing speed","As a player, I want to see my high scores saved and displayed"],"Competitive Analysis":["Snake Game A: Simple interface, lacks customization options","SnakeGame.com: Responsive UI but has intrusive ads","SnakeMaster: Beautiful design but lacks cloud save feature"],"Competitive Quadrant Chart":"quadrantChart\\n    title \\"Reach and engagement of campaigns\\"\\n    x-axis \\"Low Reach\\" --> \\"High Reach\\"\\n    y-axis \\"Low Engagement\\" --> \\"High Engagement\\"\\n    quadrant-1 \\"We should expand\\"\\n    quadrant-2 \\"Need to promote\\"\\n    quadrant-3 \\"Re-evaluate\\"\\n    quadrant-4 \\"May be improved\\"\\n    \\"Campaign A\\": [0.3, 0.6]\\n    \\"Campaign B\\": [0.45, 0.23]\\n    \\"Campaign C\\": [0.57, 0.69]\\n    \\"Campaign D\\": [0.78, 0.34]\\n    \\"Campaign E\\": [0.40, 0.34]\\n    \\"Campaign F\\": [0.35, 0.78]\\n    \\"Our Target Product\\": [0.5, 0.6]","Requirement Analysis":"","Requirement Pool":[["P0","The main code for snake movement and game logic"],["P0","The ability to control the snake using arrow keys"],["P1","A system to track and display the player\'s score"],["P1","Different levels with varying speeds"],["P2","Cloud save functionality to store high scores"]],"UI Design draft":"Basic function description with a simple style and layout. The game board will be a grid with the snake represented by blocks. Food items will appear at random locations. Score and level information will be displayed on the top or bottom of the screen.","Anything UNCLEAR":""}'}}}
+2024-10-15 23:35:37.154 | DEBUG    | metagpt.roles.role:run:547 - Alice(Product Manager): no news. waiting.
+2024-10-15 23:35:37.154 | INFO     | __main__:main:14 - None
