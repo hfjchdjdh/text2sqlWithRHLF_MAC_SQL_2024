@@ -33,7 +33,8 @@
     ```bash
     python web_demo.py
     ```
-
+## 效果
+![这是图片](https://cdn.nlark.com/yuque/0/2024/png/45116829/1729493806177-e251b3c7-b1d9-4dc6-a385-b2cb23eaef4a.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_1125%2Climit_0)
 
 
 
